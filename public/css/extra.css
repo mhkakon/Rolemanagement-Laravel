@@ -1,0 +1,107 @@
+
+.table-datas{
+    margin-top: 65px;
+}
+
+
+.text-style{
+    
+    font-weight: lighter;
+    color: gray;
+    text-align: center;
+}
+
+.add-spacing{
+    margin-top: 60px;
+}
+
+
+.link-color{
+    color: gray;
+    text-decoration: none;
+}
+
+.color{
+    color: gray;
+}
+
+.navbar-space{
+    margin-bottom: 20px;
+}
+
+.body {
+    height: 100%;
+    margin: 0;
+  }
+
+  .jumbo-spacing{
+      padding: 10px;
+      margin-top: 200px;
+  }
+
+  .navbar a{
+    font-family: nunito;
+    font-size: medium;
+}
+
+.margin-bottom-button{
+    margin-top: 10px;
+}
+
+
+
+  
+.jumbo a:visited {
+    text-decoration: none;
+    color: gray;
+  }
+
+.jumbo a:hover{
+  text-decoration: none;
+}
+  
+.select-width{
+    max-width: 200px;
+}
+
+.carousel-item{
+    height: 600px;
+} 
+.carousel-item img{
+    height: 600px;
+    object-fit: cover;
+    
+}
+
+
+
+.img {
+    object-fit: cover;
+}
+
+.add-spacing{
+    margin-top:20px;
+}
+
+
+.cardmama a{
+    
+    font-weight: normal;
+}
+
+  
+.cardmama a:visited {
+    text-decoration: none;
+    color: gray;
+    font-weight: 10px;
+  }
+
+.cardmama a:hover{
+  text-decoration: none;
+}
+  
+
+.boxmama{
+    max-width: 800px;
+    min-height: 500px;
+}
